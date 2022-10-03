@@ -1,15 +1,8 @@
 # Hey! I'm _Nikita Khabya_ ❄️
 
->
-
 💡 Interested to work on full stack projects and learn new skills on the way!
 
-
-
-
 🌐 Currently learning and building applications in NextJS and Typescript
-
-
 
 💫 I like to read books, _apprends le francais_, travel and watch anime
 
