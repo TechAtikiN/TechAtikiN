@@ -12,7 +12,7 @@
 
 🛠️ **Languages**: JavaScript, TypeScript, Golang, Python  
 🎨 **Frontend**: React, Next.js, Redux, TailwindCSS, Shadcn, Bootstrap  
-🧩 **Backend**: Gin, Fiber, NodeJS, FastAPI, GraphQL, NestJS  
+🧩 **Backend**: Gin, Fiber, NodeJS, FastAPI, GraphQL  
 💾 **Databases**: PostgreSQL, MongoDB, MySQL  
 ☁️ **Cloud**: AWS, Vercel  
 🧪 **Testing**: React Testing Library, Cypress  
