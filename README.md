@@ -4,7 +4,7 @@
 
 👩‍💻 Software Engineer<br/>
 ⛅️ Building products people love, one app at a time <br/>
-🎢 Loves to cook, travel, and learn new things
+🎢 Love to cook, travel, and learn new things
 <br/>
 
 ---
