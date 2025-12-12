@@ -23,9 +23,10 @@
 
 🚀 SEO, UI/UX, Blogging, Digital Marketing, Content Creation and Simplicity.
 
-### Get in touch:
+### Few links to my profile:
 
 🌐 [Portfolio](https://www.nikitakhabya.com/) <br/>
+🌐 [Blog](https://blog.nikitakhabya.com/) <br/>
 𝕏  [Twitter](https://x.com/nikitakhabya) <br/>
 💼 [LinkedIn](https://www.linkedin.com/in/techatikin) <br/>
 🔄 [Github](https://github.com/TechAtikiN) <br/>
